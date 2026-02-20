@@ -29,3 +29,5 @@
 ## Запуск и использование
 Перейдите по [ссылке на дашборд](https://datalens.yandex/b7qf4vbd6f22v). Используйте фильтры на панели дашборда, чтобы настроить отображение данных под ваши задачи (выбрать район, диапазон цен, период).
 
+<img width="1855" height="858" alt="image" src="https://github.com/user-attachments/assets/28ba4a6c-4afc-498d-a30d-21e72249d6aa" />
+<img width="1837" height="902" alt="image" src="https://github.com/user-attachments/assets/46810e3f-11f9-48da-840f-673efabb4562" />
